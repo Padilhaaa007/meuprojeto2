@@ -1,0 +1,60 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    margin: 0;
+}
+  
+#hero {
+    width: 540px;
+    margin: 32px auto 64px auto;
+}
+
+#hero img {
+    width: 350px;
+}
+
+#hero h1 {
+    color: #3F3D56;
+}
+
+#hero h1 span {
+    color: #EE24FF;
+}
+
+p {
+    color: #828282;
+}
+
+p span {
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer li {
+    margin: 0 32px;
+    display: inline;
+    color: #3F3D56;
+}
+
+footer a {
+    text-decoration: none;
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+.line {
+    width: 325px;
+    height: 0;
+    border-top: 1px solid #ECEFF2;
+    margin: 0 auto;
+}
+
+#wave {
+    width: 100%;
+    margin-top: 32px;
+}
